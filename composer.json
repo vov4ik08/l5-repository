@@ -26,7 +26,7 @@
     "docs": "http://andersao.github.io/l5-repository"
   },
   "require": {
-    "prettus/laravel-validation": "~1.1|~1.2|~1.3|~1.4|~1.5|~1.6"
+    "prettus/laravel-validation": "dev-master"
   },
   "autoload": {
     "psr-4": {
